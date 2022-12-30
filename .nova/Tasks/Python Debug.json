@@ -1,0 +1,13 @@
+{
+  "extension" : {
+    "identifier" : "panic.Python",
+    "name" : "Python"
+  },
+  "extensionTemplate" : "pythonDebug",
+  "extensionValues" : {
+    "python.debug.customArgs" : [
+
+    ],
+    "python.debug.script" : "day1.py"
+  }
+}

@@ -5,8 +5,6 @@ calories = []
 
 with open('day1Input.txt') as csvFile:
 	csv_reader = csv.reader(csvFile)
-	line_count = 0
-	addRow = True
 	elf = []
 	for row in csv_reader:
 		if row == []:

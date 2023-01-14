@@ -8,6 +8,6 @@
     "python.debug.customArgs" : [
 
     ],
-    "python.debug.script" : "day3.py"
+    "python.debug.script" : "day4.py"
   }
 }
